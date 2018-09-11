@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\ebag\\Desktop\\wxdemo\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\xml\\app_config.xml",
+        "source": "C:\\Users\\ebag\\Desktop\\wxdemo\\platforms\\android\\app\\src\\main\\res\\xml\\app_config.xml"
+    },
+    {
+        "merged": "C:\\Users\\ebag\\Desktop\\PlaygroundDemo\\app\\build\\intermediates\\res\\merged\\debug\\xml\\app_config.xml",
+        "source": "C:\\Users\\ebag\\Desktop\\PlaygroundDemo\\app\\src\\main\\res\\xml\\app_config.xml"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\ebag\\Desktop\\wxdemo\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main_scan.xml",
+        "source": "C:\\Users\\ebag\\Desktop\\wxdemo\\platforms\\android\\app\\src\\main\\res\\menu\\main_scan.xml"
+    },
+    {
+        "merged": "C:\\Users\\ebag\\Desktop\\PlaygroundDemo\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main_scan.xml",
+        "source": "C:\\Users\\ebag\\Desktop\\PlaygroundDemo\\app\\src\\main\\res\\menu\\main_scan.xml"
+    },
+    {
+        "merged": "C:\\Users\\ebag\\Desktop\\wxdemo\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\ebag\\Desktop\\wxdemo\\platforms\\android\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ebag\\Desktop\\PlaygroundDemo\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\ebag\\Desktop\\PlaygroundDemo\\app\\src\\main\\res\\menu\\main.xml"
+    }
+]

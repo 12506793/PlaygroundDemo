@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\ebag\\Desktop\\PlaygroundDemo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\ebag\\Desktop\\PlaygroundDemo\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ebag\\Desktop\\wxdemo\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\ebag\\Desktop\\wxdemo\\platforms\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    }
+]
